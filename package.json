@@ -1,0 +1,21 @@
+{
+  "name": "dowdytheme",
+  "displayName": "DowdyTheme",
+  "description": "A very colorful and eye-pleasing theme, which will enhance your coding hours.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DowdyTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DowdyTheme-color-theme.json"
+      }
+    ]
+  }
+}
